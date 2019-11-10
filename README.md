@@ -3,7 +3,7 @@ BSides Workshop Support Team
 
 Given the increasing levels of complexity involved in delivering relevant and powerful workshop experiences at conference, this team provides an extra layer of support to workshop leaders and workshop infrastructure to prevent circumstances that leave students unable to participate because of network, wifi, system, and/or server capacity failures.
 
-As each workshop uses different (and sometimes new) configurations, including mixtures of local and cloud servers and networking, and as workshop leaders often have their hands full just preparing these simulators, VMs, and complex playfields, one of the first functions the support team can provide is analysis and load testing of the configuration to determine capacity bottlenecks and failure points.
+As each workshop uses different (and sometimes new) configurations, including mixtures of local and cloud servers and networking, and as workshop leaders often have their hands full just preparing these simulators, VMs, and complex playfields, _one of the first functions the support team can provide is analysis and load testing of the configuration to determine capacity bottlenecks and failure points._
 
 Group projects that could solve bottleneck issues might include:
 
